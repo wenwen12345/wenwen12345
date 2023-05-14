@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://wenwen12345.pages.dev/"
+baseURL = "https://wenwen12345.pages.dev"
 title = "Hugo 主题 MemE"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -98,11 +98,11 @@ uglyURLs = false
     # 名字
     name = "wenwen12345"
     # 邮箱
-    email = "liaowen100407@gmail.com"
+    email = "liaowen100407y@gmail.com"
     # 座右铭或简介
-    motto = ""
-    # 头像
-    avatar = ""
+    motto = "Viva La Vida"
+    # 推特
+    twitter = "reuixiy"
 
 # 相关文章
 [related]
