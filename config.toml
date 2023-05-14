@@ -51,7 +51,6 @@ uglyURLs = false
 
 # 类别
 [taxonomies]
-    category = "categories"
     tag = "tags"
 
 # 修改时间
@@ -348,7 +347,6 @@ uglyURLs = false
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
     # 说明：用于 Twitter Cards
 
 
@@ -369,7 +367,7 @@ uglyURLs = false
     # 的树状分类，故如需保留树状分类，建议适应
     # Hugo 的设计理念——分区。
 
-    categoryBy = "categories"
+    categoryBy = "sections"
     # 注意：如果你设置为 `sections`，请务必将
     #      此配置文件中的类别（taxonomies）中
     #      的 `categories` 删除，不然分类页
@@ -633,7 +631,7 @@ uglyURLs = false
     utterancesRepo = "wenwen12345/wenwen12345"
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
-    utterancesThemeDark = "photon-dark"
+    utterancesThemeDark = "dark-blue"
     utterancesLabel = ""
     # 说明：https://utteranc.es/
 
