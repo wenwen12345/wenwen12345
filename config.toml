@@ -629,11 +629,11 @@ uglyURLs = false
     # 说明：https://valine.js.org/
 
     ## Utterances
-    enableUtterances = false
-    utterancesRepo = ""
+    enableUtterances = true
+    utterancesRepo = "wenwen12345/wenwen12345"
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
-    utterancesThemeDark = "photon-dark"
+    utterancesThemeDark = "github-dark"
     utterancesLabel = ""
     # 说明：https://utteranc.es/
 
