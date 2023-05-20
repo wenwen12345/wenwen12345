@@ -1,8 +1,8 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://wenwen12345.pages.dev"
-title = "wenwen12345's blog"
+baseURL = "https://liaowen.eu.org"
+title = "liaowen's blog"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
