@@ -1,8 +1,8 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://liaowen.eu.org"
-title = "liaowen's blog"
+baseURL = "https://blog.albertgo.top/"
+title = "Albert's blog"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -95,13 +95,12 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "wenwen12345"
+    name = "albert"
     # 邮箱
-    email = "liaowen100407y@gmail.com"
+    email = "liaowen100407@gmail.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "The end of beautification is default"
     # 推特
-    twitter = "reuixiy"
 
 # 相关文章
 [related]
@@ -148,8 +147,8 @@ uglyURLs = false
 # Hugo 的输出控制
 [outputs]
     page = ["HTML"]
-    # home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex", "Algolia"]
-    home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex"]
+    home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex", "Algolia"]
+    # home = ["HTML", "SectionsAtom", "SectionsRSS", Algolia"]
     section = ["HTML"]
     taxonomy = ["HTML"]
     term = ["HTML"]
@@ -1388,9 +1387,9 @@ uglyURLs = false
 
     enableAlgoliaSearch = false
 
-    algoliaAppId = ""
-    algoliaApiKey = ""
-    algoliaIndexName = ""
+    algoliaAppId = "84HFSD1VGD"
+    algoliaApiKey = "3756c0c880c727804c535f8e3d959a62"
+    algoliaIndexName = "blog"
     # 说明：https://www.algolia.com/
 
 
