@@ -1374,7 +1374,7 @@ uglyURLs = false
 
     # 说明：需要开启 `SearchIndex` 的输出
 
-    enableLunrSearch = false
+    enableLunrSearch = true
     # 说明：https://lunrjs.com/
 
 
@@ -1385,11 +1385,11 @@ uglyURLs = false
     #      次将生成的 algolia.json 文件上传到
     #      Algolia
 
-    enableAlgoliaSearch = true
+    enableAlgoliaSearch = false
 
-    algoliaAppId = "84HFSD1VGD"
-    algoliaApiKey = "3756c0c880c727804c535f8e3d959a62"
-    algoliaIndexName = "blog"
+    algoliaAppId = ""
+    algoliaApiKey = ""
+    algoliaIndexName = ""
     # 说明：https://www.algolia.com/
 
 
