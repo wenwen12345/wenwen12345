@@ -4,9 +4,11 @@ date: 2023-05-14T07:08:25+08:00
 draft: false
 ---
 
-一个普通人
-[github][github]
+学生自己的博客
 
-[github]: https://github.com/wenwen12345
+编程语言：
 
-好懒啊
+- [x] c++
+- [x] python
+- [ ] rust
+- [ ] go
