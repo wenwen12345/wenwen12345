@@ -1,6 +1,7 @@
 ---
 title: "Leetcode每日一题2023 7 12"
 date: 2023-07-12T18:41:03+08:00
+categories: leetcode
 tags: 
     - cpp
     - leetcode
