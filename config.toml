@@ -17,6 +17,8 @@ buildFuture = false
 buildExpired = false
 pygmentsUseClasses = true
 
+home = [ "HTML", "RSS", "JSON"]
+
 [minify]
 disableXML = true
 minifyOutput = true
